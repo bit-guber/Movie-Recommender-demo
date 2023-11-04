@@ -1,6 +1,8 @@
 [submodule "FrontEnd-Movie-Recommender"]
+	recurse = true
 	path = FrontEnd-Movie-Recommender
 	url = https://github.com/bit-guber/FrontEnd-Movie-Recommender.git
 [submodule "Movie-Recommender-API"]
+	recurse = true
 	path = Movie-Recommender-API
 	url = https://github.com/bit-guber/Movie-Recommender-API.git
