@@ -16,3 +16,4 @@ the Effects and Business value of a deployed recommender system is determined by
 
 - Website Configuration visit &nbsp;&nbsp; `frontend folder`
 - Suggestion producer visit &nbsp;&nbsp;`API folder`
+- Trained notebook name is &nbsp;&nbsp; `movie-recommended-vectors.ipynb`
