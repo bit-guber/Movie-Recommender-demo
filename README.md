@@ -1,4 +1,4 @@
-# Movie-Recommender-System
+# Movie-Recommendation-System
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Note: &nbsp;this portfolio project with limited features done by [bit_guber](https://github.com/bit-guber/Portfolio).<br><br>
 This Project accomplish top 50 Movie suggest for users from previously liked movies by them with quick and efficiently as possible way. This Project Separate into two parts one for FrontEnd Website other for API endpoint.There will be Top 100 Popular Movies based on reviews count each movie in MovieLens [Dataset](https://grouplens.org/datasets/movielens/) which were collected 9,734 movies over various periods of time.
